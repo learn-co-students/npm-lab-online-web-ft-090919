@@ -1,0 +1,17 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "packahe json test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Hello World!"
+  },
+  "keywords": [
+    "Clock"
+  ],
+  "author": "Marco",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
