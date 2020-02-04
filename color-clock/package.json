@@ -1,0 +1,17 @@
+{
+  "name": "colorclock",
+  "version": "1.0.0",
+  "description": "lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"scripts\": {"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "s",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
